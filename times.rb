@@ -1,6 +1,6 @@
 def using_times(Wingardium Leviosa)
 	7.times do
-	  puts 
+	  puts #{times}
 end
 
 
